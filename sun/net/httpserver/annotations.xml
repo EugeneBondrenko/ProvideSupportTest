@@ -1,0 +1,6 @@
+<root>
+    <item name='sun.net.httpserver.ExchangeImpl sun.net.httpserver.ExchangeImpl get(com.sun.net.httpserver.HttpExchange)'>
+        <annotation name='java.lang.Deprecated'/>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
